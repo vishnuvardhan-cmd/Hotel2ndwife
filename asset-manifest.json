@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Hotel2ndwife/static/css/main.99af19dc.chunk.css",
+    "main.js": "/Hotel2ndwife/static/js/main.11bebaa1.chunk.js",
+    "main.js.map": "/Hotel2ndwife/static/js/main.11bebaa1.chunk.js.map",
+    "runtime-main.js": "/Hotel2ndwife/static/js/runtime-main.523cf478.js",
+    "runtime-main.js.map": "/Hotel2ndwife/static/js/runtime-main.523cf478.js.map",
+    "static/js/2.66b87b03.chunk.js": "/Hotel2ndwife/static/js/2.66b87b03.chunk.js",
+    "static/js/2.66b87b03.chunk.js.map": "/Hotel2ndwife/static/js/2.66b87b03.chunk.js.map",
+    "index.html": "/Hotel2ndwife/index.html",
+    "precache-manifest.cf334bf25bce214503f476050798617b.js": "/Hotel2ndwife/precache-manifest.cf334bf25bce214503f476050798617b.js",
+    "service-worker.js": "/Hotel2ndwife/service-worker.js",
+    "static/css/main.99af19dc.chunk.css.map": "/Hotel2ndwife/static/css/main.99af19dc.chunk.css.map",
+    "static/js/2.66b87b03.chunk.js.LICENSE.txt": "/Hotel2ndwife/static/js/2.66b87b03.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.523cf478.js",
+    "static/js/2.66b87b03.chunk.js",
+    "static/css/main.99af19dc.chunk.css",
+    "static/js/main.11bebaa1.chunk.js"
+  ]
+}
