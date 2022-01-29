@@ -2,6 +2,7 @@
   "name": "reminder",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://vishnuvardhan-cmd.github.io/Hotel2ndwife",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -12,7 +13,9 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "CI= react-scripts build",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d bulid",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
